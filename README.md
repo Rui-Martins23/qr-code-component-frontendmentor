@@ -7,7 +7,7 @@
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: https://rui-martins23.github.io/qr-code-component-frontendmentor/
 
 ## My process
 
@@ -27,5 +27,4 @@ Still had some difficulties on the styling part, but given the initial learning 
 
 ## Author
 
-- Website - [Rui Martins](empty at the moment)
-- Frontend Mentor - [@Rui-Martins23] https://www.frontendmentor.io/profile/Rui-Martins23
+- [@Rui-Martins23] https://www.frontendmentor.io/profile/Rui-Martins23
